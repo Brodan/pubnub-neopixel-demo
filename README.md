@@ -1,7 +1,7 @@
 # PubNub-Neopixel-Demo
 Demo app to power an LED matrix with RPi + Pubnub
 
-![gif](http://i.imgur.com/Rehv667.gif)
+![gif](demo.gif)
 
 # Requirements
 - Raspberry Pi (I used [Model 1B](https://www.raspberrypi.org/products/model-b/), other models should work.)
